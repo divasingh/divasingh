@@ -1,4 +1,4 @@
-Hi! 👋 I am Divya Singh
+Hi! 👋 I'm Divya Singh
 
 - I am a Software Developer. Worked mainly on Java applications. 
 - :thinking: Planning to try something new! 
